@@ -15,7 +15,7 @@
   "request_data": {
     "entryData": "valor_do_entryData",
     "contractId": "valor_do_contractId",
-    "channel": channel
+    "channel": "valor_do_channel"
     
   }
 }
