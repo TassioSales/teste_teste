@@ -2,7 +2,7 @@
     "request_info": {
         "req_id": "req_id",
         "base_url": "base_url",
-        "entry_data": "entry_json.get("CPF_CNPJ")",
+        "entry_data": "CPF_CNPJ",
         "access_token": "tk_response",
         "decision_name": "decision_name",
         "contract_id": "customerId",
