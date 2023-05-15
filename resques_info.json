@@ -1,21 +1,17 @@
 {
-  "request_info": {
-    "req_id": "valor_da_req_id",
-    "base_url": "valor_da_base_url",
-    "entry_data": "valor_da_entry_data",
-    "access_token": "valor_do_access_token",
-    "decision_name": "valor_do_decision_name",
-    "contract_id": "valor_do_contract_id",
-    "channel": "valor_do_channel",
-    "operator_role": "valor_do_operator_role",
-    "pdv": "valor_do_pdv",
-    "product": "valor_do_product",
-    "maximum_viability_customer": "valor_do_maximum_viability_customer"
-  },
-  "request_data": {
-    "entryData": "valor_do_entryData",
-    "contractId": "valor_do_contractId",
-    "channel": "valor_do_channel"
-  }
+    "request_info": {
+        "req_id": "req_id",
+        "base_url": "base_url",
+        "entry_data": "CPF_CNPJ",
+        "access_token": "tk_response",
+        "decision_name": "decision_name",
+        "contract_id": "customerId",
+        "channel": "canal",
+        "operator_role": "Operator_role",
+        "pdv": "PDV",
+        "product": "producto",
+        "maximum_viability_customer": "maximum_viability_custome"
+    }
 }
+
 
